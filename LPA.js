@@ -12,12 +12,16 @@
 // @require  	https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js
 // @license MIT
 // ==/UserScript==
-
 /* globals $ */
 
-
+// Now using the Phairene Shippers' Essential Blocklist! https://docs.google.com/spreadsheets/d/1wosl7__oyppUDTXdN2GhgVJgygsz0eCGoSFzUmmLFrw/preview
 
 let blockList = [
+  {
+    "blk" : {
+      "accountId" : "1465337522997760010",
+    }
+  },
   {
     "blk" : {
       "accountId" : "1914561393438941188",
@@ -25,17 +29,52 @@ let blockList = [
   },
   {
     "blk" : {
-      "accountId" : "1478419494431338499",
+      "accountId" : "1687164424677703696",
     }
   },
   {
     "blk" : {
-      "accountId" : "1465337522997760010",
+      "accountId" : "1922775804678983680",
     }
   },
-    {
+  {
     "blk" : {
-      "accountId" : "1687164424677703696",
+      "accountId" : "1839961952757383169",
+    }
+  },
+  {
+    "blk" : {
+      "accountId" : "1794683963178663936",
+    }
+  },
+  {
+    "blk" : {
+      "accountId" : "1943474756537454596",
+    }
+  },
+  {
+    "blk" : {
+      "accountId" : "1913054279415279616",
+    }
+  },
+  {
+    "blk" : {
+      "accountId" : "1661157097185083400",
+    }
+  },
+  {
+    "blk" : {
+      "accountId" : "857858103706091520",
+    }
+  },
+  {
+    "blk" : {
+      "accountId" : "1424811124713734147",
+    }
+  },
+  {
+    "blk" : {
+      "accountId" : "1898749215490379776",
     }
   }
 ];
