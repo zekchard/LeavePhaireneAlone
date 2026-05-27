@@ -1,6 +1,6 @@
 # Leave #Phairene alone!
 
-<img width="800" height="800" alt="iswp sticker 1 1s" src="https://github.com/user-attachments/assets/bf00cddc-17d9-48a1-8027-2a43550fa7ea" />
+<img width="400" height="400" alt="iswp sticker 1 1s" src="https://github.com/user-attachments/assets/bf00cddc-17d9-48a1-8027-2a43550fa7ea" />
 
 ### A userscript to automatically block users on Twitter / X that are known to spam the #Phairene tag with unrelated and derogatory stuff. 
 
