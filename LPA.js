@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Leave #Phairene alone!
 // @namespace    http://tampermonkey.net/
-// @version      0.1.0
+// @version      0.2.0
 // @description  Block all users on Twitter/X who spam the Phairene tag. Based on Block BecomingElla's Twitter Blocklist (by Ella Keens).
 // @author       zekchard
 // @match        https://x.com/*
