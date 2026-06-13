@@ -9,6 +9,7 @@
 // @grant GM_getValue
 // @grant GM_deleteValue
 // @downloadURL  https://raw.githubusercontent.com/zekchard/LeavePhaireneAlone/main/userscript.js
+// @updateURL  https://raw.githubusercontent.com/zekchard/LeavePhaireneAlone/main/userscript.meta.js
 // @require  	https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js
 // @license MIT
 // ==/UserScript==
